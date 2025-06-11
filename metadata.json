@@ -1,0 +1,5 @@
+{
+  "name": "Texture Dimension Calculator",
+  "description": "A tool to calculate the closest acceptable texture dimensions based on input width/height, aspect ratio, and step divisibility (e.g., multiples of 4 or powers of 2).",
+  "requestFramePermissions": []
+}
